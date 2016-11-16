@@ -1,0 +1,9 @@
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\bin\Debug\JogoDosAnimaisWF.exe.config
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\bin\Debug\JogoDosAnimaisWF.exe
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\bin\Debug\JogoDosAnimaisWF.pdb
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.csprojResolveAssemblyReference.cache
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.Properties.Resources.resources
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.csproj.GenerateResource.Cache
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.exe
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.pdb
+c:\users\renato\documents\visual studio 2015\Projects\JogoDosAnimaisWF\JogoDosAnimaisWF\obj\Debug\JogoDosAnimaisWF.Form1.resources
